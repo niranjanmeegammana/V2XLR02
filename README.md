@@ -8,7 +8,7 @@ This study addresses that gap through a systematic review of 52 peer-reviewed st
 The review analyses dominant threat classes including denial-of-service, jamming, man-in-the-middle, eavesdropping, Sybil attacks, and misbehaviour scenarios, while critically evaluating AI-driven intrusion detection, blockchain-based trust architectures, lightweight cryptographic protocols, and post-quantum resilience strategies. Our synthesis reveals persistent structural gaps in certificate revocation scalability, latency-aware authentication, interoperability across DSRC, C-V2X, and 5G architectures, and the transition from simulation-based validation to field-grade resilience. By framing V2X security as a design-for-resilience challenge in cyber-physical systems engineering, this study provides a deployment-oriented analytical foundation and a strategic roadmap toward scalable, interoperable, and quantum-ready V2X security architectures.
 
 Authors
-Niranjan~W.~Meegammana,ri Lanka Institute of Information Technology (SLIIT)
-Harinda~Fernando,ri Lanka Institute of Information Technology (SLIIT)
-Malka~N.~Halgamuge, RMIT University
+Niranjan W. Meegammana, Sri Lanka Institute of Information Technology (SLIIT)
+Harinda Fernando, Sri Lanka Institute of Information Technology (SLIIT)
+Malka N. Halgamuge, RMIT University
 
